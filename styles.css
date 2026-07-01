@@ -1,0 +1,14 @@
+@keyframes bg-anim {
+    0% {
+        background-position: left;
+        opacity: 1;
+    }
+    50% {
+        background-position: center;
+    }
+
+    100% {
+        background-position: right;
+        opacity:  1;
+    }
+}
